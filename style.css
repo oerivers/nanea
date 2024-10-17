@@ -1,89 +1,42 @@
-body {
+/*Background for index */
+.index {
   background-color: #4b4f38;
 }
 
-h1 {
+/*Font and Size for title in index (Nanea and Smoothie Bar) */
+.header-index {
   color: #d9ccb8;
+  font-family: sans-serif;
+  font-size: 3em
+
 }
 
-a {
+/*Buttons in Index for Menu Gallery and About */
+.button {
   color: #d9ccb8;
+  word-spacing: 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 2em
 }
 
-h2 {
+/*Text modifier for Loyalty Card in Index */
+.loyalty{
   color: #d9ccb8;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 1em;
 }
+
+/*Text Modifier for the paragraph in the index at the bottom*/
+.par-index {
+  color: #e1dad2;
+  font-family: sans-serif;
+  font-size: 1em;
+}
+
 
 /*
-
 #d9ccb8 - text color
 #4b4f38 - background color
-
-selector {
-    propiedad: valor;
-}
-
-CSS selector
-
-Universal - * {
-  color: red #f00 (hexadecimal);
-}
-
-de tipo (por elemento):
-
-h1{
-  color: red;
-}
-
-h2{
-  color: red;
-}
-
-
-class -
-<h2 class="title-h2"> Mi primer titulo </h2>
-
-.title-h2{
-  color: red;
-}
-
-
-ID - #
-<h2 id="element"> Mi primer titulo </h2>
-
-#element{
-  color: red;
-}
-
-por atributo - h2(etiqueta) id(atributo) "elemento" (valor)
-[rancio="sii"]{
-  color: red;
-}
-
-descendiente:
-
-h2 p{
-  color: red;
-}
-
-pseudo-clases:
-
-b:hover{
-  color: red;
-}
-
-
-La especifidad: hojas de estilo en cascada / el mas importante es el ultimo
-darle prioridad a algo - cambiar algo sin afectar al resto
-
-!important
-estilos en linea
-ID
-clases
-pseudo-clases
-atributos
-
-elementos
-pseudo-elementos
-
 */
