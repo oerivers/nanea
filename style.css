@@ -1,0 +1,89 @@
+body {
+  background-color: #4b4f38;
+}
+
+h1 {
+  color: #d9ccb8;
+}
+
+a {
+  color: #d9ccb8;
+}
+
+h2 {
+  color: #d9ccb8;
+}
+
+/*
+
+#d9ccb8 - text color
+#4b4f38 - background color
+
+selector {
+    propiedad: valor;
+}
+
+CSS selector
+
+Universal - * {
+  color: red #f00 (hexadecimal);
+}
+
+de tipo (por elemento):
+
+h1{
+  color: red;
+}
+
+h2{
+  color: red;
+}
+
+
+class -
+<h2 class="title-h2"> Mi primer titulo </h2>
+
+.title-h2{
+  color: red;
+}
+
+
+ID - #
+<h2 id="element"> Mi primer titulo </h2>
+
+#element{
+  color: red;
+}
+
+por atributo - h2(etiqueta) id(atributo) "elemento" (valor)
+[rancio="sii"]{
+  color: red;
+}
+
+descendiente:
+
+h2 p{
+  color: red;
+}
+
+pseudo-clases:
+
+b:hover{
+  color: red;
+}
+
+
+La especifidad: hojas de estilo en cascada / el mas importante es el ultimo
+darle prioridad a algo - cambiar algo sin afectar al resto
+
+!important
+estilos en linea
+ID
+clases
+pseudo-clases
+atributos
+
+elementos
+pseudo-elementos
+
+*/
