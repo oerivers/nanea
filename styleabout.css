@@ -1,0 +1,28 @@
+.aboutstyle {
+  background-color: #4b4f38;
+}
+
+.button {
+  color: #d9ccb8;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 2em
+}
+
+.team{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: #d9ccb8;
+}
+
+.name{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: #d9ccb8;
+}
